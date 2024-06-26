@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\bin\Debug\net8.0\C#-Task-Array.exe
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\bin\Debug\net8.0\C#-Task-Array.deps.json
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\bin\Debug\net8.0\C#-Task-Array.runtimeconfig.json
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\bin\Debug\net8.0\C#-Task-Array.dll
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\bin\Debug\net8.0\C#-Task-Array.pdb
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\obj\Debug\net8.0\C#-Task-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\obj\Debug\net8.0\C#-Task-Array.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\obj\Debug\net8.0\C#-Task-Array.AssemblyInfo.cs
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\obj\Debug\net8.0\C#-Task-Array.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\obj\Debug\net8.0\C#-Task-Array.dll
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\obj\Debug\net8.0\refint\C#-Task-Array.dll
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\obj\Debug\net8.0\C#-Task-Array.pdb
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\obj\Debug\net8.0\C#-Task-Array.genruntimeconfig.cache
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task-Array\obj\Debug\net8.0\ref\C#-Task-Array.dll

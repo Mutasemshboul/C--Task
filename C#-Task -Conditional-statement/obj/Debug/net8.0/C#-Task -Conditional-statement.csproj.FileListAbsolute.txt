@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\bin\Debug\net8.0\C#-Task -Conditional-statement.exe
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\bin\Debug\net8.0\C#-Task -Conditional-statement.deps.json
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\bin\Debug\net8.0\C#-Task -Conditional-statement.runtimeconfig.json
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\bin\Debug\net8.0\C#-Task -Conditional-statement.dll
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\bin\Debug\net8.0\C#-Task -Conditional-statement.pdb
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\obj\Debug\net8.0\C#-Task -Conditional-statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\obj\Debug\net8.0\C#-Task -Conditional-statement.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\obj\Debug\net8.0\C#-Task -Conditional-statement.AssemblyInfo.cs
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\obj\Debug\net8.0\C#-Task -Conditional-statement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\obj\Debug\net8.0\C#-Task -Conditional-statement.dll
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\obj\Debug\net8.0\refint\C#-Task -Conditional-statement.dll
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\obj\Debug\net8.0\C#-Task -Conditional-statement.pdb
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\obj\Debug\net8.0\C#-Task -Conditional-statement.genruntimeconfig.cache
+C:\Users\DELL\source\repos\C#-Task-Array\C#-Task -Conditional-statement\obj\Debug\net8.0\ref\C#-Task -Conditional-statement.dll
