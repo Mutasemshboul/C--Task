@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\bin\Debug\net8.0\Task 3 - loops.exe
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\bin\Debug\net8.0\Task 3 - loops.deps.json
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\bin\Debug\net8.0\Task 3 - loops.runtimeconfig.json
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\bin\Debug\net8.0\Task 3 - loops.dll
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\bin\Debug\net8.0\Task 3 - loops.pdb
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\obj\Debug\net8.0\Task 3 - loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\obj\Debug\net8.0\Task 3 - loops.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\obj\Debug\net8.0\Task 3 - loops.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\obj\Debug\net8.0\Task 3 - loops.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\obj\Debug\net8.0\Task 3 - loops.sourcelink.json
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\obj\Debug\net8.0\Task 3 - loops.dll
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\obj\Debug\net8.0\refint\Task 3 - loops.dll
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\obj\Debug\net8.0\Task 3 - loops.pdb
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\obj\Debug\net8.0\Task 3 - loops.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Mutasemshboul\CSharp-Task\Task 3 - loops\obj\Debug\net8.0\ref\Task 3 - loops.dll
