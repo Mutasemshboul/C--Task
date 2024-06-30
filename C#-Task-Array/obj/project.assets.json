@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\C#-Task-Array\\C#-Task-Array\\C#-Task-Array.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\Mutasemshboul\\CSharp-Task\\C#-Task-Array\\C#-Task-Array.csproj",
       "projectName": "C#-Task-Array",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\C#-Task-Array\\C#-Task-Array\\C#-Task-Array.csproj",
+      "projectPath": "C:\\Users\\DELL\\Source\\Repos\\Mutasemshboul\\CSharp-Task\\C#-Task-Array\\C#-Task-Array.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\C#-Task-Array\\C#-Task-Array\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Source\\Repos\\Mutasemshboul\\CSharp-Task\\C#-Task-Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
